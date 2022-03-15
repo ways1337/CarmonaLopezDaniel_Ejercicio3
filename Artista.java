@@ -17,6 +17,11 @@ public class Artista {
     public String getNombreArtista() {
         return nombreArtista;
     }
+
+    //DANIEL CARMONA LÓPEZ
+    public void setNombreAritsta(String nombreArtista){
+    	this.nombreArtista = nombreArtista;
+    }
     
 }
 
